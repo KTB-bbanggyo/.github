@@ -79,4 +79,4 @@
 
 ## **📩 문의 & 네트워크**
 - 🏢 **GitHub Organization**: [KTB-bbanggyo](https://github.com/KTB-bbanggyo)  
-- 💬 **Discorde**: [contact@ktb-bbanggyo.com  ](https://discord.gg/8wcVy2Yr)
+- 💬 **Discorde**: [bbanggyo discord server ](https://discord.gg/8wcVy2Yr)
