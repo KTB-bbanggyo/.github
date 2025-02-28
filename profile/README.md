@@ -56,8 +56,8 @@
 ## **🛠 기술 스택**
 | Frontend | Backend | AI & Data | DevOps |
 |----------|---------|----------|--------|
-| ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge) | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge) | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=for-the-badge) | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge) |
-| ![Next.js](https://img.shields.io/badge/Javascript-000000?logo=javascript&logoColor=white&style=for-the-badge) | ![MySQL](https://img.shields.io/badge/MySQL-47A248?logo=mysql&logoColor=white&style=for-the-badge) | ![ChromaDB](https://img.shields.io/badge/ChromaDB-00A3E0?style=for-the-badge) | ![AWS](https://img.shields.io/badge/AWS-326CE5?logo=aws&logoColor=white&style=for-the-badge) |
+| ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge) | ![Node.js](https://img.shields.io/badge/Node.js-009688?logo=node.js&logoColor=white&style=for-the-badge) | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=for-the-badge) | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge) |
+| ![Javascript](https://img.shields.io/badge/Javascript-000000?logo=javascript&logoColor=white&style=for-the-badge) | ![MySQL](https://img.shields.io/badge/MySQL-47A248?logo=mysql&logoColor=white&style=for-the-badge) | ![ChromaDB](https://img.shields.io/badge/ChromaDB-00A3E0?style=for-the-badge) | ![AWS](https://img.shields.io/badge/AWS-326CE5?logo=aws&logoColor=white&style=for-the-badge) |
 
 ---
 
