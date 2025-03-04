@@ -60,6 +60,11 @@
 | ![Javascript](https://img.shields.io/badge/Javascript-000000?logo=javascript&logoColor=white&style=for-the-badge) | ![MySQL](https://img.shields.io/badge/MySQL-47A248?logo=mysql&logoColor=white&style=for-the-badge) | ![ChromaDB](https://img.shields.io/badge/ChromaDB-00A3E0?style=for-the-badge) | ![AWS](https://img.shields.io/badge/AWS-326CE5?logo=aws&logoColor=white&style=for-the-badge) |
 
 ---
+## **🎥 시연 영상**
+https://www.youtube.com/watch?v=qOSNdes2yTg
+
+
+---
 
 ## **🎉 참여 방법**
 🚀 **KTB-bbanggyo 프로젝트에 기여하는 방법!**  
